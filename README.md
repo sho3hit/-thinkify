@@ -1,7 +1,7 @@
 # -thinkify
 
-<a href='https://bigbinary.semaphoreci.com/projects/neeto-crm-web'>
-  <img src='https://bigbinary.semaphoreci.com/badges/neeto-crm-web/branches/master.svg?style=shields&key=2f249051-3132-4494-9da0-52f996299fe6' alt='Build Status'>
+<a href='https://www.thinkify.io/'>
+  <img src='https://www.thinkify.io/' alt='Build Status'>
 </a>
 
 ## Local Development setup
